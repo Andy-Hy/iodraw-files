@@ -11,16 +11,13 @@
           <mxGeometry x="213" y="69" width="117" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qdRhKc_FIS9pPkOxpOWU-8" value="平台数据看板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="216" y="111" width="117" height="46" as="geometry" />
+          <mxGeometry x="221" y="124" width="117" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qdRhKc_FIS9pPkOxpOWU-9" value="平台数据看板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207" y="175" width="117" height="46" as="geometry" />
+          <mxGeometry x="219" y="178" width="117" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qdRhKc_FIS9pPkOxpOWU-10" value="平台数据看板" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="251" width="117" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="qdRhKc_FIS9pPkOxpOWU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.658;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qdRhKc_FIS9pPkOxpOWU-9" target="qdRhKc_FIS9pPkOxpOWU-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="213" y="256" width="117" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
