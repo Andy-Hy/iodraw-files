@@ -43,7 +43,7 @@
             <mxPoint x="433" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JxkMpnrTb2WygscYrDn-1" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3JxkMpnrTb2WygscYrDn-1" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="341" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
